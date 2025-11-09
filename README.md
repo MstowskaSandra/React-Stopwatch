@@ -5,10 +5,10 @@ This mini project demonstrates fundamental React concepts such as state manageme
 
 ## 🚀 Run locally
 
-git clone https://github.com/MstowskaSandra/react-stopwatch.git
-cd react-stopwatch
-npm install
-npm start
+- git clone https://github.com/MstowskaSandra/react-stopwatch.git
+- cd react-stopwatch
+- npm install
+- npm start
 
 ## 🧩 Features
 
